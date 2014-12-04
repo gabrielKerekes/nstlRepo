@@ -1,0 +1,22 @@
+\select@language {slovak}
+\contentsline {paragraph}{Zaznamenavanie zmien}{2}{section*.1}
+\contentsline {section}{\numberline {1}Pou\IeC {\v z}\IeC {\'\i }vate\IeC {\v l}sk\IeC {\'a} \IeC {\v s}pecifik\IeC {\'a}cia}{4}{section.1}
+\contentsline {subsection}{\numberline {1.1}\IeC {\'U}vod do problematiky}{4}{subsection.1.1}
+\contentsline {subsection}{\numberline {1.2}Pou\IeC {\v z}\IeC {\'\i }vate\IeC {\v l}sk\IeC {\'e} po\IeC {\v z}iadavky}{4}{subsection.1.2}
+\contentsline {subsubsection}{\numberline {1.2.1}Funkcion\IeC {\'a}lne po\IeC {\v z}iadavky}{4}{subsubsection.1.2.1}
+\contentsline {subsubsection}{\numberline {1.2.2}Nefunkcion\IeC {\'a}lne po\IeC {\v z}iadavky}{5}{subsubsection.1.2.2}
+\contentsline {subsubsection}{\numberline {1.2.3}Merate\IeC {\v l}n\IeC {\'e} po\IeC {\v z}iadavky}{5}{subsubsection.1.2.3}
+\contentsline {subsubsection}{\numberline {1.2.4}Dom\IeC {\'e}nov\IeC {\'e} po\IeC {\v z}iadavky}{5}{subsubsection.1.2.4}
+\contentsline {section}{\numberline {2}Syst\IeC {\'e}mov\IeC {\'a} \IeC {\v s}pecifik\IeC {\'a}cia}{6}{section.2}
+\contentsline {subsection}{\numberline {2.1}Diagram pr\IeC {\'\i }padov pou\IeC {\v z}itia}{6}{subsection.2.1}
+\contentsline {subsection}{\numberline {2.2}Role jednotliv\IeC {\'y}ch hr\IeC {\'a}\IeC {\v c}ov}{7}{subsection.2.2}
+\contentsline {subsubsection}{\numberline {2.2.1}Neregistrovan\IeC {\'y} pou\IeC {\v z}\IeC {\'\i }vate\IeC {\v l}}{7}{subsubsection.2.2.1}
+\contentsline {subsubsection}{\numberline {2.2.2}Prihl\IeC {\'a}sen\IeC {\'y} pou\IeC {\v z}\IeC {\'\i }vate\IeC {\v l} (bez triedy)}{7}{subsubsection.2.2.2}
+\contentsline {subsubsection}{\numberline {2.2.3}Prihl\IeC {\'a}sen\IeC {\'y} pou\IeC {\v z}\IeC {\'\i }vate\IeC {\v l} (s triedou)}{7}{subsubsection.2.2.3}
+\contentsline {subsubsection}{\numberline {2.2.4}Spr\IeC {\'a}vca syst\IeC {\'e}mu}{7}{subsubsection.2.2.4}
+\contentsline {subsection}{\numberline {2.3}Tabu\IeC {\v l}ky pr\IeC {\'\i }padov pou\IeC {\v z}itia}{7}{subsection.2.3}
+\contentsline {subsection}{\numberline {2.4}Diagramy aktiv\IeC {\'\i }t a sekven\IeC {\v c}n\IeC {\'e} diagramy}{9}{subsection.2.4}
+\contentsline {subsection}{\numberline {2.5}Stavov\IeC {\'y} diagram}{12}{subsection.2.5}
+\contentsline {section}{\numberline {3}D\IeC {\'a}tov\IeC {\'y} model}{13}{section.3}
+\contentsline {section}{\numberline {4}Akcepta\IeC {\v c}n\IeC {\'e} testy}{13}{section.4}
+\contentsline {section}{\numberline {5}Projektov\IeC {\'e} pl\IeC {\'a}novanie}{13}{section.5}
